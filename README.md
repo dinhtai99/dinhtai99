@@ -87,9 +87,9 @@ Vui lòng tham khảo tài liệu hướng dẫn chi tiết tại từng Reposit
 
 ---
 <div align="center">
-  <p>Được thiết kế và phát triển bởi <b>[Tên của Bạn]</b></p>
+  <p>Được thiết kế và phát triển bởi <b>Trần Đình Tài</b></p>
   <p>
-    <a href="mailto:email-cua-ban@gmail.com">Email</a> • 
+    <a href="mailto:email-cua-ban@gmail.com">dinhtai1999t@gmail.com</a> • 
     <a href="https://linkedin.com/in/link-cua-ban">LinkedIn</a>
   </p>
 </div>
